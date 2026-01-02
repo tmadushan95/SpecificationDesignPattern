@@ -1,3 +1,6 @@
+# Visual Studio
+.vs/
+
 # Build results
 bin/
 obj/
@@ -6,8 +9,6 @@ obj/
 *.user
 *.suo
 *.rsuser
-*.userosscache
-*.sln.docstates
 
 # Rider
 .idea/
